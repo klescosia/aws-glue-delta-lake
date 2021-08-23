@@ -19,7 +19,7 @@ spark = SparkSession \
     .getOrCreate()
 
 
-deleteDF = spark.sql("""
+insertDF = spark.sql("""
 
 INSERT INTO delta.`s3a://delta-lake-aws-glue-demo/current/`
 SELECT *
