@@ -6,6 +6,7 @@ This repository is for demonstrating the capability to do SQL-based UPDATES, DEL
 
 # Architecture Diagram
 
+![Kyle-Escosia-AWS-Glue-Delta-Lake-Diagram](https://i.imgur.com/pZ4C9eh.png)
 
 
 ### athena-query.sql
