@@ -1,4 +1,4 @@
-# aws-glue-delta-lake
+# How to do UPSERTS, DELETES and INSERTS into your Data Lake
 This repository is for demonstrating the capability to do SQL-based UPDATES, DELETES, and INSERTS directly in the Data Lake using Amazon S3, AWS Glue and Delta Lake.
 
 ---
