@@ -25,6 +25,7 @@ This code takes a Delta Lake table and does a DELETE operation using Spark SQL.
 
 This code takes a Delta Lake table and does an INSERT operation using Spark SQL.
 
+---
 
 Full documentation of functions can be found [here](https://docs.delta.io/latest/api/python/index.html) and a more detailed one with examples can be found [here](https://docs.delta.io/latest/index.html)
 
